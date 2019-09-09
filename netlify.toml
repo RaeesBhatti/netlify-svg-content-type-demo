@@ -1,0 +1,5 @@
+[[headers]]
+	for = "/static/*.svg"
+		[headers.values]
+			content-type = "image/svg+xml; charset=utf-8"
+
